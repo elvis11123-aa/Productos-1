@@ -2,7 +2,7 @@
 /* button de agregar */
 .btn-primary-add {
   width: 100%;
-  padding: 12px;
+  padding: 15px;
   background-color: #00ff15;
   color: #ffffff;
   border: none;
@@ -13,6 +13,7 @@
   text-transform: uppercase;
   cursor: pointer;
   transition: background-color 0.2s ease;
+  margin-bottom: 15px;
 }
 
 .btn-primary-add:hover {
@@ -38,6 +39,7 @@
   text-transform: uppercase;
   cursor: pointer;
   transition: background-color 0.2s ease;
+  margin-bottom: 15px;
 }
 
 .btn-primary-update:hover {
@@ -63,6 +65,7 @@
   text-transform: uppercase;
   cursor: pointer;
   transition: background-color 0.2s ease;
+  margin-bottom: 15px;
 }
 
 .btn-primary-delete:hover {
